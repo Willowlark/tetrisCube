@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Piece()
+comment1.params=
+comment1.target=void\ loadLinePos()
+comment2.params=
+comment2.target=void\ loadCrossPositions()
+comment3.params=i
+comment3.target=int[][]\ buildTry(int)
+comment4.params=
+comment4.target=int\ numberOfCombos()
+numComments=5

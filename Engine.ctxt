@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Engine(int,\ int)
+comment1.params=
+comment1.target=Engine()
+comment10.params=
+comment10.target=void\ printField()
+comment11.params=
+comment11.target=char[][]\ getCharField()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=boolean\ stepChar()
+comment5.params=
+comment5.target=void\ initalize()
+comment6.params=
+comment6.target=getOpenPositions()
+comment7.params=x\ y
+comment7.target=boolean\ isPostEmpty(int,\ int)
+comment8.params=
+comment8.target=char\ randomChar()
+comment9.params=x\ y\ p\ mods
+comment9.target=boolean\ drawPiece(int,\ int,\ Piece,\ int[][])
+numComments=12
